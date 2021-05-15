@@ -15,3 +15,6 @@ python3 webstatus.py
 ---> Windows <--- 
 python webstatus.py
 ```
+
+## Preview 
+![](https://github.com/ghostxinn/webstatus/blob/main/wst.PNG)
