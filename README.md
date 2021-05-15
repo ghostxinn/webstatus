@@ -6,6 +6,7 @@ Applies to every website.
 - Python 3.x
 - Any Terminal
 - OS : Linux/Windows
+- Requests Module
 
 ## How To Use? 
 ```
